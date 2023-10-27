@@ -8,11 +8,11 @@
         <version>3.1.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.lekwacious</groupId>
+    <groupId>com.shameem</groupId>
     <artifactId>smart-host-api</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>smart-host-management</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Host using Spring Boot</description>
     <properties>
         <java.version>11</java.version>
     </properties>
